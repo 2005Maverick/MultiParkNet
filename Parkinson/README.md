@@ -1,4 +1,5 @@
-# Parkinson's Disease Detection Model
+# MULTI PARK-
+NET
 
 A deep learning-based solution for early detection of Parkinson's disease using MRI, DATSCAN, and clinical features.
 
